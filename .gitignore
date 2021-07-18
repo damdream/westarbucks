@@ -258,7 +258,7 @@ Temporary Items
 .history
 .ionide
 
-my.settings.py
+my_settings.py
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,visualstudiocode,macos
